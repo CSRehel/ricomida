@@ -1,0 +1,36 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+nav, footer h1{
+    font-family: 'Lobster', cursive;
+}
+
+.btn_car li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.m0p0{
+    margin-left: 0;
+    padding-left: 0;
+}
+
+hr{
+    border: solid rgb(29, 29, 29);
+    border-radius: 50%;
+}
+
+ul li{
+    list-style: none;
+}
+
+.height-s4{
+    height: 500px;
+    padding-top: 10em;
+}
+
+.btn-lg{
+    width: 200px;
+}
